@@ -1,2 +1,4 @@
-# go-logger
-go-logger
+logger
+===
+
+Extension module of golang logging
